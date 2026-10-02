@@ -1,0 +1,33 @@
+# InstantCampaign — "Flare" design tokens (dark app shell)
+# Source: instantcampaign/src/app/globals.css
+mode = "dark"
+
+accent = "#F06E9F"          # raspberry lifted for AA on dark (--color-dark-primary)
+selection = "#3C1A29"       # --color-dark-primary-tint
+muted = "#37343D"           # --color-dark-border
+
+background = "#141317"          # ink-950, dark shell background
+dark_background = "#0F0E12"
+darker_background = "#0B0A0D"
+lighter_background = "#211F25"  # --color-dark-surface
+
+foreground = "#F2F0F4"          # --color-dark-foreground (ink-100)
+dark_foreground = "#6D6A72"     # ink-500
+light_foreground = "#D9D6DD"    # ink-300
+bright_foreground = "#FFFFFF"
+
+red = "#E57373"       # destructive, lifted for dark
+yellow = "#F2B35C"    # warning, lifted
+orange = "#E8873A"
+green = "#5FBF8A"     # success, lifted
+cyan = "#6FC3D9"
+blue = "#5FA8DC"      # info, lifted
+magenta = "#F06E9F"   # raspberry
+brown = "#870D3B"     # raspberry-800
+
+bright_red = "#F28B8B"
+bright_yellow = "#F8C77F"
+bright_green = "#7DD2A3"
+bright_cyan = "#8FD4E6"
+bright_blue = "#7FBDE6"
+bright_magenta = "#F491B7"
